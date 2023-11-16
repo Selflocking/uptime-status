@@ -7,13 +7,16 @@
     "build": "react-scripts build"
   },
   "dependencies": {
-    "axios": "^0.27.2",
-    "dayjs": "^1.11.3",
+    "axios": "^1.6.2",
+    "dayjs": "^1.11.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
-    "react-tooltip": "^4.2.21",
-    "sass": "^1.53.0"
+    "react-tooltip": "^5.23.0",
+    "sass": "^1.69.5"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   },
   "browserslist": {
     "production": [
